@@ -1,3 +1,3 @@
 # Case99
 case do processo seletivo da 99
-Aqui mostro o processo que fiz em python de acordo com requisitos
+Aqui mostro o processo que fiz em python de acordo com requisitos em ADMISSION TEST – DATA STRATEGY AND PLANNING.pdf
